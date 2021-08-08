@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Flutter and Machine Learning.
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on any project that is innovative.
 - 📫 How to reach me: 
 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Instagram : [@srikhar_shashi](https://www.instagram.com/srikhar_shashi/)  
