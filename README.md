@@ -3,7 +3,7 @@
 - Welcome to my profile do have a look around and explore my projects!  
 - I majorly work with Flutter and I am also learning Front End Development   
 
-I am currently working on Ecstasy - An invite based platform to find your match !  
+I am currently working on<a href="https://github.com/srikharshashi/dating_app"> Ecstasy - An invite based platform to find your match !  </a>
 
 ### Contact Me
 <a href="mailto:dasojusrikhar@gmail.com">  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   :: dasojusrikhar@gmail.com    </a>  
