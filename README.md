@@ -1,17 +1,14 @@
-### Hi there 👋
+### Hi There !  :hand:
 
+- Welcome to my profile do have a look around and explore my projects!  
+- I majorly work with Flutter and I am also learning Front End Development   
 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on any project that is innovative.
-- 📫 How to reach me: 
-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Instagram : [@srikhar_shashi](https://www.instagram.com/srikhar_shashi/)  
-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Twitter: [@SrikharShashi](https://twitter.com/SrikharShashi)  
-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LinkedIn: [Srikhar Shashi D](https://www.linkedin.com/in/srikhar-shashi/)  
-- 💻 I'm intrested to get into Open Source Community once I get skilled enough  
+I am currently working on Ecstasy - An invite based platform to find your match !  
 
-#Github Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=srikharshashi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-
-
+### Contact Me
+<a href="mailto:dasojusrikhar@gmail.com">  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   :: dasojusrikhar@gmail.com    </a>  
+ <a href  ="https://www.linkedin.com/in/srikhar-shashi/">  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+ <a href ="https://discordapp.com/users/Shashi#0401](https://discordapp.com/users/Shashi#0401"> ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)  </a>  
+<a href="https://twitter.com/SrikharShashi" >![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+</a>
+ 
