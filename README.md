@@ -5,6 +5,8 @@
 
 I am currently working on<a href="https://github.com/srikharshashi/dating_app"> Ecstasy - An invite based platform to find your match !  </a>
 
+Also check out this new hackathon project [Intelligent Crime Reporting and Intervention System](https://github.com/srikharshashi/sih2022-docs)  
+
 ### Contact Me
 <a href="mailto:dasojusrikhar@gmail.com">  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   :: dasojusrikhar@gmail.com    </a>  
  <a href  ="https://www.linkedin.com/in/srikhar-shashi/">  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
