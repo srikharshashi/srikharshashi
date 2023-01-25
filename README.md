@@ -5,6 +5,8 @@
 
 I am currently working on<a href="https://github.com/srikharshashi/dating_app"> Ecstasy - An invite based platform to find your match !  </a>
 
+Check Out my new project :- [Trash Detection in Aerial images and Controlling UAV's remotely using Websocket and DroneKit SDK](https://github.com/srikharshashi/trash-detection-docs)
+
 Also check out this new hackathon project [Intelligent Crime Reporting and Intervention System](https://github.com/srikharshashi/sih2022-docs)  
 
 ### Contact Me
