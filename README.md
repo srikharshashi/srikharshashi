@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Distributed Systems and Cloud Infra**
 
-- ⚒️ I’m building [Nano-Compiler(my very own compiler)](github.com/srikharshashi/nanocompiler)
+- ⚒️ I’m building [Nano-Compiler(my very own compiler)](/nanocompiler)
 
 - 🤝 I’m looking for help with **LLM's and NLP**
 
